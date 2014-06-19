@@ -203,6 +203,7 @@ Why doesn't Alice accept bitcoins for her API service?
 
 
 **1. Answer - Ease, Discovery, and Competition**
+
 Alice could accept bitcoin directly. But unless she wants to do that manually, she will have to set up a payment mechanism, read Bitpay or the like which is extra work for her. 
 
 There is also the discovery issue. Yes, Alice sets up API and use BitPay to take in BTC, But how does Bob find Alice's API? He spends time looking through all the websites, seeing which ones offer the API he needs, maybe stumbles upon Alice's API and decides to use it. 

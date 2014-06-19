@@ -212,6 +212,18 @@ Lastly, there is the competition issue. If Bob only has one option for his API p
 
 A similar example we can look at in the real world is why Overstock.com (a huge company) doesn't just do their own bitcoin merchant services. Why use Coinbase or Bitpay? Overstock could do it themselves. But ease, discovery and competition play similar roles in that decision too. So if Coinbase charges a 1% fee or has me use Coinbase token either way its easier for Overstock than doing everything themselves.
 
+##Appendix Disclosures
 
+Disclosures PLEASE READ
 
+1. Friendly Report: 
+Those involved in preparing this informational report were among the co-founders and advisors of Engine Inc. in 2012 (the original API effort that was proprietary and is now being open sourced) and the views expressed here (while intended as neutral), should be taken as friendly to the project and its success.
 
+2. This Is Not Stock or Equity
+Participation in the API Network / XAP crowdsale will not provide you with a "security" or "equity" stake in this project. The digital token known as XAP is only useful for accessing the API Network software after its development is complete.
+
+3. No Refunds
+No refunds of BTC will be made to purchasers of XAP, should they change their mind at a later time, as the creation of the XAP tokens is locked in. Of course, once the purchaser receives his or her tokens after the crowdsale, they are free to send or sell them to anyone of their choice.
+
+4. If You Send BTC From Coinbase You Can't Claim Your XAP
+If you send the API Network Crowdsale address BTC from a wallet that you do not control the private key for (example Coinbase), then you will not be able to claim the API Coins (XAP) you purchased and the API Network will be unable to generate new ones for you.

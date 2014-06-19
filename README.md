@@ -28,9 +28,9 @@ EXAMPLE WITHOUT API NETWORK
 
 1. Alice has an bitcoin to dogecoin exchange website. One of the features Alice offers is a price ticker from the trades being done on her order book. In theory Alice's price data feed is available as an API... somewhere, well maybe if you contact her directly and figure out how to use it.
 
-2. Bob has a bitcoin and crypto currency charts website that shows real time prices for bitcoin and many other crypto currencies. Bob wants to add the price of of bitcoin to dogecoin to his website charts. Bob first has to survey the exchanges that trade bitcoin for dogecoins and find out who offers an API. Bob finds out that Alice offers the API he needs and reaches out to her. Bob connects with with Alice's API but it has many limits: only so many calls per hour can be made. So instead of real time data Bob's charts show a 20 minute delay. 
+2. Bob has a bitcoin and crypto currency charts website that shows real time prices for bitcoin and many other crypto currencies. Bob wants to add the price of of bitcoin to dogecoin to his website charts. Bob first has to survey the exchanges that trade bitcoin for dogecoin and find out who offers an API. Bob finds out that Alice offers the API he needs and reaches out to her. Bob connects with with Alice's API but it has many limits: only so many calls per hour can be made. So instead of real time data Bob's charts show a 20 minute delay. 
 
-3. Later on Charlie, Dan, and Ethan want to connect to Alice's API too. But Alice doesn't want to support all the calls to her server or go to the trouble of setting up a payment mechanism and decides to shut off this service. Now Bob, Charlie, Dan and Ethan must go find anyother exchange offering an API for bitcoin to dogecoin trades.     
+3. Later on Charlie, Dan, and Ethan want to connect to Alice's API too. But Alice doesn't want to support all the calls to her server or go to the trouble of setting up a payment mechanism and decides to shut off this service. Now Bob, Charlie, Dan and Ethan must go find another exchange offering an API for bitcoin to dogecoin trades.     
 
 EXAMPLE WITH API NETWORK
 

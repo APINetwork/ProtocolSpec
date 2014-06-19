@@ -30,15 +30,15 @@ EXAMPLE WITHOUT API NETWORK
 
 2. Bob has a bitcoin and crypto currency charts website that shows real time prices for bitcoin and many other crypto currencies. Bob wants to add the price of of bitcoin to dogecoin to his website charts. Bob first has to survey the exchanges that trade bitcoin for dogecoins and find out who offers an API. Bob finds out that Alice offers the API he needs and reaches out to her. Bob connects with with Alice's API but it has many limits: only so many calls per hour can be made. So instead of real time data Bob's charts show a 20 minute delay. 
 
-3. Later on Charlie, Dan, and Ethan want to connect to Alice's API too. But Alice doesn't want to support all the calls to her server or go to the trouble of setting up a payment mechanism and decides to shut off this service. Now Bob, Charlie, Dan and Evan must go find anyother exchange offering an API for bitcoin to dogecoin trades.     
+3. Later on Charlie, Dan, and Ethan want to connect to Alice's API too. But Alice doesn't want to support all the calls to her server or go to the trouble of setting up a payment mechanism and decides to shut off this service. Now Bob, Charlie, Dan and Ethan must go find anyother exchange offering an API for bitcoin to dogecoin trades.     
 
 EXAMPLE WITH API NETWORK
 
 1. Alice has an bitcoin to dogecoin exchange website. One of the features Alice offers is a real time price ticker from the trades being done on her order book which she has listed on the API Network.
 
-2. Bob has a bitcoin and crypto currency charts website that shows real time prices for bitcoin and many other crypto currencies. Bob wants to add the price of of bitcoin to dogecoin to his website charts. Bob goes to the API Network and finds that Alice offers the API he needs. Bob uses the API for free for a while and later decides to pay a little API Coin to Alice for real time data and more calls to here service.
+2. Bob has a bitcoin and crypto currency charts website that shows real time prices for bitcoin and many other crypto currencies. Bob wants to add the price of of bitcoin to dogecoin to his website charts. Bob goes to the API Network and finds that Alice offers the API he needs. Bob uses the API for free for a while and later decides to pay a little API Coin to Alice for real time data and more calls to her service.
 
-3. Later on Charlie, Dan, and Ethan connect to Alice's API through the API Network. Alice's API service becomes popular and she get paids lots of API Coins, some of which she converts into bitcoin and uses the money to sustain and improve her API service over time. 
+3. Later on Charlie, Dan, and Ethan connect to Alice's API through the API Network. Alice's API service becomes popular and she gets paid lots of API Coins, some of which she converts into bitcoin and uses the money to sustain and improve her API service over time. 
 
 ## The Problem
 There are four central issues with today's providers of API calls:

@@ -196,6 +196,18 @@ Note that the amount to transfer is accounted for in Lacys (hundred million Lacy
 5. Engage community members in bounties and challenges build up the number and type of APIs available on the API Network.  
 
 
+##Appendix Q&A
+
+1. Question
+Why doesn't alice accept bitcoins for her api service?
+
+
+1. Answer - Ease, Discovery, and Competition
+Alice could accept bitcoin directly. But unless she wants to do that manually, she will have to set up a payment mechanism, read Bitpay or the like which is extra work for her. 
+There is also the discovery issue. Yes, Alice sets up API and use BitPay to take in BTC, But how does Bob find Alice's API? He spends time looking through all the websites, seeing which ones offer the API he needs, maybe stumbles upon Alice's API and decides to use it. 
+Lastly, there is the competition issue. If Bob only has one option for his API provider, then his application is fragile. Every time Alice changes her API (which could be often) then Bob must fix the now broken data coming into his site. If instead Alice, Fay, and Georgia are offering the Bitcoin to Dogecoin price ticker API, then Alice better treat Bob, Charlie, Dan, and Ethan well or they will choose to switch providers to Fay or Georgia instead. In summary, Ease, Discovery, and Competition are really critical here.
+A similar example we can look at in the real world is why Overstock.com (a huge company) doesn't just do their own bitcoin merchant services. Why use Coinbase or Bitpay? Overstock could do it themselves. But ease, discovery and competition play similar roles in that decision too. So if Coinbase charges a 1% fee or has me use Coinbase token either way its easier for Overstock than doing everything themselves.
+
 
 
 

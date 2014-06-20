@@ -241,7 +241,7 @@ Note that the amount to transfer is accounted for in Lacys (hundred million Lacy
 
 2. Buy additional intellectual property and codebase related to Exchange and other common data standards and open soure it the API community.
 
-3. Buy crypto currency in the protocols that API Network is built on top of. For example after the purchase of intellecual property and code from API services as described above, 25% of the remaining XBT (BTC) collcected during crowdsale will be used to puchase MSC, SAFE, and any other digital token that it functions on top of in order for the API Network to hold a stake in the platforms it is built on top of. Thus holding a mix of XBT (BTC), MSC and SAFE provides the API Network with a longterm stake in the future of these protocols.
+3. Buy crypto currency in the protocols that API Network is built on top of. For example after the purchase of intellecual property and code from API services as described above, 25% of the remaining XBT (BTC) collcected during crowdsale will be used to purchase MSC, SAFE, and any other digital token that it functions on top of in order for the API Network to hold a stake in the platforms it is built on top of. Thus holding a mix of XBT (BTC), MSC and SAFE provides the API Network with a longterm stake in the future of these protocols.
  
 4. Engage core developers to work full time to impliment the API Network protocol into a functional client. The Role Based Bounty system will be engaged to accomplish this.
 

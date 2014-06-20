@@ -159,7 +159,7 @@ The “Master Protocol" layer exists between the existing bitcoin protocol and u
 
 ## Total Distribution of APIcoins (XAP)
 
-XBT (BTC) Crowdsale 3,000,000 XAPs (30%) will be the maximum generated
+XBT (BTC) Crowdsale 3,000,000 XAPs (30%)
 
 Third Party Developers 2,000,000 XAPs (20%)
 
@@ -173,7 +173,11 @@ Total APIcoins that will ever exist 10,000,000
 
 See details on the following Google Spread Sheet: https://docs.google.com/spreadsheets/d/1Jo58sfAfXJ05ZUylzf9dGDbJ2ngPlDbCZ2B6FSP_xBc/edit?usp=sharing
 
-Note: These numbers are approximations and will not be locked in until each category is defined by the community via algorithm. For example the ultimate number of Crowdsale XAP depends on how many are generated during the crowdsale period by the participants, 3,000,000 is the upper limit. Or for example the third party developers XAP depend on the SAFE Network being able to provide the algorithm to track and reward the usage of a file on their system for the API Network to award its XAP tokens to its third party developers using the same methodology. See "Algorithms" section below. 
+Note: 
+
+These algorithms and rates of distribution here are approximations and will not be locked in until each category is defined by the community via a final distribution algorithm. 
+
+For example the rate at which the third party developers XAP pool will pay out depends on the SAFE Network being able to provide the algorithm to track and reward the usage of a file on their system for the API Network to award its XAP tokens to its third party developers using the same methodology. See "Algorithms" section below. 
 
 ## Algorithms and Logic APICoin (XAP) Generation
 

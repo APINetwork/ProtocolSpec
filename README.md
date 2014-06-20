@@ -202,7 +202,7 @@ In the event that a purchase has multiple inputs, the input address contributing
 
 Anyone who purchases APICoins also receive the ability to test new features before they are available for use in the API Network Protocol.
 
-If the full 3,000,000 APICoins (XAP) are not generated during the crowdsale event, they will not be artifically generated in any way and the total number of XAP that will ever exist will be reduced proportionately.  
+If the full 3,000,000 APICoins (XAP) are not generated during the crowdsale event, they will not be artificially generated in any way and the total number of XAP that will ever exist will be reduced proportionately.  
 
 ## Developer APICoins (Dev Tokens)
 

@@ -196,10 +196,13 @@ Initial distribution of APICoins (XAP) will essentially be a effort to incentivi
 
 8. The total number of APIcoins generated during the crowdsale shall be limited to 3,000,000. Any APIcoins generated after this point shall be invalid and the bitcoin sent for their generate returned to the sender.
 
+Notes:
 
 In the event that a purchase has multiple inputs, the input address contributing the most funds is recognized as owning the APICoins.
 
-Note that anyone who purchases APICoins also receive the ability to test new features before they are available for use in the API Network Protocol.
+Anyone who purchases APICoins also receive the ability to test new features before they are available for use in the API Network Protocol.
+
+If the full 3,000,000 APICoins (XAP) are not generated during the crowdsale event, they will not be artifically generated in any way and the total number of XAP that will ever exist will be reduced proportionately.  
 
 ## Developer APICoins (Dev Tokens)
 

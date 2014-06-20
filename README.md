@@ -207,7 +207,7 @@ In the event that a purchase has multiple inputs, the input address contributing
 
 Anyone who purchases APICoins also receive the ability to test new features before they are available for use in the API Network Protocol.
 
-If the full 3,000,000 APICoins (XAP) are not generated during the crowdsale event, they will not be artificially generated in any way and the total number of XAP that will ever exist will be reduced proportionately.  
+If the full 3,000,000 APICoins (XAP) are not generated during the crowdsale event, the remaining portion will be generated and distributed to the participants of the crowdsale on a proportional basis. Meaning that if for example a purchaser brought 1 APICoin (XAP) for 1.6 mBTC during the first segment of the crowdsale, and the crowdsale sold 1,000,000 APICoins (XAP) (out of the possible 3,000,000) then all holders of 1 APIcoin (XAP) would gain 2 additional APIcoins (XAP) and in this example the purchaser would end up with 3 APIcoins (XAP).  
 
 ## Third Party Developer APICoins (XAP) Pool + Generation of Other Crypto Currency by the Network and its Distribution
 

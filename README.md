@@ -201,7 +201,7 @@ Initial distribution of APICoins (XAP) will essentially be a effort to incentivi
 
 8. The total number of APIcoins generated during the crowdsale shall be limited to 3,000,000. Any APIcoins generated after this point shall be invalid and the bitcoin sent for their generate returned to the sender.
 
-Notes:
+**Notes:**
 
 In the event that a purchase has multiple inputs, the input address contributing the most funds is recognized as owning the APICoins.
 
@@ -263,6 +263,16 @@ There is also the discovery issue. Yes, Alice sets up API and use BitPay to take
 Lastly, there is the competition issue. If Bob only has one option for his API provider, then his application is fragile. Every time Alice changes her API (which could be often) then Bob must fix the now broken data coming into his site. If instead Alice, Fay, and Georgia are offering the Bitcoin to Dogecoin price ticker API, then Alice better treat Bob, Charlie, Dan, and Ethan well or they will choose to switch providers to Fay or Georgia instead. In summary, Ease, Discovery, and Competition are really critical here.
 
 A similar example we can look at in the real world is why Overstock.com (a huge company) doesn't just do their own bitcoin merchant services. Why use Coinbase or Bitpay? Overstock could do it themselves. But ease, discovery and competition play similar roles in that decision too. So if Coinbase charges a 1% fee or has me use Coinbase token either way its easier for Overstock than doing everything themselves.
+
+**2. Question**
+
+"If the coins are not sold out by the end of crowd sale on July 18th, what will happen to the remaining XAP from the 3,000,000 crowdsale pool?
+
+**2. Answer*
+
+See the section above titled Crowdsale APICoin XAP Generation in the notes sub section. https://github.com/APINetwork/ProtocolSpec#the-crowdsale-apicoin-xap-generation
+
+"If the full 3,000,000 APICoins (XAP) are not generated during the crowdsale event, the remaining portion will be generated and distributed to the participants of the crowdsale on a proportional basis. Meaning that if for example a purchaser brought 1 APICoin (XAP) for 1.6 mBTC during the first segment of the crowdsale, and the crowdsale sold 1,000,000 APICoins (XAP) (out of the possible 3,000,000) then all holders of 1 APIcoin (XAP) would gain 2 additional APIcoins (XAP) and in this example the purchaser would end up with 3 APIcoins (XAP)."  
 
 ##Appendix Disclosures
 

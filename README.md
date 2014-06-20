@@ -5,17 +5,18 @@ API Network Protocol Version 0.1 (Whitepaper Proposal Edition)
 
 =================================
 
-Contributors:
+**Contributors:**
+
+Ian Stewart https://github.com/ianmstew
 
 Marv Schneider https://github.com/marvgmail
+
+Faiz Khan https://github.com/faizkhan00
 
 Curtis Lacy https://github.com/curtislacy
 
 Sam Yilmaz https://github.com/Onat
 
-Faiz Khan https://github.com/faizkhan00
-
-Ian Stewart https://github.com/ianmstew
 
 ## Introduction
 The market for API calls is enormous one, the number of API calls per day is astronomical. They power most of the Apps that you use on a daily basis, however they are still tough for developers to connect and maintain. The API Network project was born out a desire to make it easier for developers to connect to application programming interfaces (APIs). The team involved in the API Network has spent the last two years building out tools to make that process easier. The project has moved more and more toward open source until it became evident to be successful the project had to be 100% open source and incentives had to be built in with a crypto currency to reward developers who contribute their work and APIs to the network. The focus has since expanded to IMAP and related work to make this common source of data useful to most developers. 
@@ -171,9 +172,9 @@ Node Incentive 1,000,000 XAPs (10%)
 
 Total APIcoins that will ever exist 10,000,000
 
-See details on the following Google Spread Sheet: https://docs.google.com/spreadsheets/d/1Jo58sfAfXJ05ZUylzf9dGDbJ2ngPlDbCZ2B6FSP_xBc/edit?usp=sharing
+**Notes:** 
 
-Note: 
+See details on the following Google Spread Sheet: https://docs.google.com/spreadsheets/d/1Jo58sfAfXJ05ZUylzf9dGDbJ2ngPlDbCZ2B6FSP_xBc/edit?usp=sharing
 
 These algorithms and rates of distribution here are approximations and will not be locked in until each category is defined by the community via a final distribution algorithm. 
 

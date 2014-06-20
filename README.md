@@ -252,7 +252,7 @@ Note that the amount to transfer is accounted for in Lacys (hundred million Lacy
 
 5. Engage community members in bounties and challenges build up the number and type of APIs available on the API Network.  
 
-6. The management of the XBT (BTC) contributed during the crowdsale will be done by the API Network Foundation (until such time as the tools exist to decentralize its functions as decided by the community). The Foundation Board of Directors will be made up of volunteers from each of the five token distribution pools including a volunteer who participated in the crowdsale, a volunteer who is a third party developer, a volunteer who is a core developer, a volunteer who was involved in the propriatary code that is being open sourced, and a volunteer who is running a API Network node.  
+6. The management of the XBT (BTC) contributed during the crowdsale will be done by the Non Profit API Network Foundation (until such time as the tools exist to decentralize its functions as decided by the community). The Foundation Board of Directors will be made up of volunteers from each of the five token distribution pools including a volunteer who participated in the crowdsale, a volunteer who is a third party developer, a volunteer who is a core developer, a volunteer who was involved in the propriatary code that is being open sourced, and a volunteer who is running a API Network node.  
 
 ##Appendix Q&A
 

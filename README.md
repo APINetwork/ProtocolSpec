@@ -206,6 +206,8 @@ Initial distribution of APICoins (XAP) will essentially be a effort to incentivi
 
 8. The total number of APIcoins generated during the crowdsale shall be limited to 3,000,000. Any APIcoins generated after this point shall be invalid and the bitcoin sent for their generate returned to the sender.
 
+9. If less than 500 XBT (BTC) are collected during the first 21 days of the API Network crowdsale, then starting Tuesday the 8th of July 2014 at 11:00 a.m. U.S. central time, the crowdsale will begin accepting MSC and MSAFE as contributions that generate API Coins (XAP). MSC and MSAFE will be accepted at the same market price (nominated in XBT (BTC) as the BTC contirbutions to the crowdsale. The market price will be set based on the previous 500 trades of the largest exchange trading MSC or MSAFE. If this scenario comes to pass then the post crowdsale purchase of MSC and MSAFE will be reduced or elimited based on the amount of MSC and MSAFE collected during the crowdsale.
+
 **Notes:**
 
 In the event that a purchase has multiple inputs, the input address contributing the most funds is recognized as owning the APICoins.
